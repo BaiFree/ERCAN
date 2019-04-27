@@ -18,7 +18,7 @@ reconstructed image.
 
 ## Dependencies
 * Python 3
-* PyTorch >= 1.0.0
+* PyTorch >= 0.4.0
 * numpy
 * skimage
 * **imageio**
